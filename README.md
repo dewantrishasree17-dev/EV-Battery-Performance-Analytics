@@ -42,22 +42,24 @@ This project presents an end-to-end EV Battery Analytics solution using Python, 
 
 ### Executive Dashboard
 
-* Average State of Health (SOH)
-* Average Voltage
-* Average Current
-* Average Temperature
-* Battery Degradation Trend
+Displays key KPIs including Average SOH, Voltage, Current, Temperature, and Battery Degradation Trends.
+
+![Executive Dashboard](Screenshots/Executive_dashboard.png)
 
 ### Battery Health Analysis
 
-* SOH vs Internal Resistance
-* SOH vs Temperature
-* Capacity Analysis
-* Battery Performance Monitoring
+Analyzes the relationship between SOH, Internal Resistance, and Temperature to identify degradation patterns.
 
-(Add dashboard screenshots here)
+![Battery Health Analysis](Screenshots/battery_health_analysis.png)
 
----
+### Python Insights Dashboard
+
+Presents analytical visualizations generated using Python including SOH trends, Capacity Analysis, and Correlation Heatmaps.
+
+![python Insights](Screenshots/python_insights.png)
+
+
+
 
 ## 🔗 Live Dashboard
 
