@@ -61,19 +61,21 @@ Explore the interactive Power BI dashboard here:
 [View Live Dashboard](https://app.powerbi.com/groups/me/reports/7e423b7f-4aff-481e-bbbc-211b31cc6282/dbea0293d898aa47a019?experience=power-bi)
 
 
-## 🎯 Business Problem
+## 📈 Key Business Insights
 
-Battery replacement is one of the highest costs associated with EV ownership. Manufacturers and fleet operators require continuous monitoring of battery health to:
+| Analysis Area          | Key Insight                                                                               | Business Impact                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Battery Degradation    | State of Health (SOH) decreases steadily as charge cycles increase.                       | Helps predict battery lifespan and replacement schedules.           |
+| Internal Resistance    | Higher Internal Resistance is associated with lower SOH.                                  | Enables early detection of battery degradation.                     |
+| Temperature Impact     | Extreme temperature conditions negatively affect battery health.                          | Highlights the importance of battery thermal management systems.    |
+| Capacity Analysis      | Battery capacity gradually declines with increased usage cycles.                          | Affects EV driving range and overall performance.                   |
+| Risk Detection         | Certain batteries exhibit abnormal degradation patterns compared to others.               | Supports predictive maintenance and reduces unexpected failures.    |
+| Performance Monitoring | Continuous tracking of battery KPIs provides real-time health insights.                   | Improves operational efficiency and fleet reliability.              |
+| Correlation Analysis   | Strong relationships exist between SOH, Internal Resistance, Capacity, and Charge Cycles. | Assists in building future battery health prediction models.        |
+| Dashboard Analytics    | Interactive dashboards enable faster monitoring and decision-making.                      | Supports data-driven battery management strategies.                 |
+| Fleet Management       | Battery health trends can be monitored across multiple batteries simultaneously.          | Improves fleet-level maintenance planning and cost optimization.    |
+| Sustainability Impact  | Early battery health monitoring extends battery life and reduces waste.                   | Contributes to sustainable EV operations and lower ownership costs. |
 
-* Predict battery degradation
-* Improve battery lifespan
-* Reduce maintenance costs
-* Detect risky batteries early
-* Enhance operational efficiency
-
-This project aims to transform raw battery data into actionable insights that support data-driven battery management.
-
----
 
 ## 📋 Project Tasks
 
