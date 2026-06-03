@@ -56,9 +56,10 @@ This project presents an end-to-end EV Battery Analytics solution using Python, 
 
 ## 🔗 Live Dashboard
 
-Power BI dashboard link: *(Add your Power BI Service link here if published)*
+Explore the interactive Power BI dashboard here:
 
----
+[View Live Dashboard](https://app.powerbi.com/groups/me/reports/7e423b7f-4aff-481e-bbbc-211b31cc6282/dbea0293d898aa47a019?experience=power-bi)
+
 
 ## 🎯 Business Problem
 
