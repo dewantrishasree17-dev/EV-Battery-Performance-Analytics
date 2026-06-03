@@ -106,9 +106,7 @@ Explore the interactive Power BI dashboard here:
 * Developed Battery Health Analysis Dashboard.
 * Created KPI cards and interactive visualizations.
 * Integrated SQL outputs and Python insights into a single reporting solution.
-
-```
-```
+`
 
 
 ## 🌍 Applications
@@ -133,16 +131,11 @@ This solution can be applied in:
 * Enhanced fleet reliability
 * Data-driven battery performance monitoring
 
-```
-```
 
 
 ## ✅ Conclusion
 
 This project demonstrates how SQL, Python, and Power BI can be integrated to build a complete EV Battery Performance Analytics solution. By analyzing battery health, degradation patterns, and environmental impacts, the project provides actionable insights that support predictive maintenance, operational efficiency, and data-driven decision-making in the electric vehicle industry.
-
-```
-```
 
 
 ## 👩‍💻 About Me
@@ -154,9 +147,11 @@ Aspiring Data Analyst skilled in SQL, Python, Power BI, Excel, and Data Visualiz
 GitHub: https://github.com/dewantrishasree17-dev
 
 LinkedIn: https://www.linkedin.com/in/trishasree-dewan-53681929a
-
----
-
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project was developed for educational, learning, and portfolio purposes.
+
+The project is intended to demonstrate skills in SQL, Python, Power BI, data analysis, and dashboard development. The dataset and project outputs are shared solely for academic and professional showcase purposes.
+
+© 2026 Trishasree Dewan. All rights reserved.
+
