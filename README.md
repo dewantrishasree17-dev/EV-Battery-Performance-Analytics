@@ -79,109 +79,71 @@ Explore the interactive Power BI dashboard here:
 
 ## 📋 Project Tasks
 
-### 1. SQL Analysis
+### Data Collection & Preparation
 
-Performed data aggregation and KPI generation using MySQL.
+* Imported EV battery dataset.
+* Performed data cleaning and preprocessing.
+* Prepared data for SQL and Power BI analysis.
 
-Key analyses:
+### SQL Analysis
 
-* KPI Analysis
-* Battery Health Summary
-* Battery Degradation Analysis
-* Environmental Impact Analysis
-* Risk Battery Detection
+* Calculated battery KPIs.
+* Performed battery degradation analysis.
+* Generated battery health summaries.
+* Identified risky batteries.
+* Analyzed environmental impacts on battery performance.
 
-### 2. Python Analysis
+### Python Analysis
 
-Performed Exploratory Data Analysis (EDA) and visualization.
+* Conducted Exploratory Data Analysis (EDA).
+* Built visualizations for battery degradation trends.
+* Analyzed relationships between SOH, Internal Resistance, Temperature, and Capacity.
+* Generated correlation heatmaps for feature analysis.
 
-Visualizations:
+### Power BI Dashboard Development
 
-* SOH vs Charge Cycle
-* SOH vs Internal Resistance
-* SOH vs Temperature
-* Capacity vs Charge Cycle
-* Correlation Heatmap
+* Designed Executive Dashboard.
+* Developed Battery Health Analysis Dashboard.
+* Created KPI cards and interactive visualizations.
+* Integrated SQL outputs and Python insights into a single reporting solution.
 
-### 3. Power BI Dashboard Development
+```
+```
 
-Built interactive dashboards to monitor:
 
-* Battery Health
-* Battery Performance
-* Environmental Impact
-* Degradation Trends
-* Operational KPIs
+## 🌍 Applications
 
----
+This solution can be applied in:
 
-## 📈 Key Business Insights
-
-### Battery Degradation Trend
-
-State of Health (SOH) decreases steadily with increasing charge cycles, indicating expected battery aging behavior.
-
-### Internal Resistance Impact
-
-Internal Resistance shows a strong negative relationship with SOH, making it one of the most important indicators of battery degradation.
-
-### Temperature Influence
-
-Battery performance varies across temperature conditions, highlighting the importance of thermal management systems.
-
-### Capacity Reduction
-
-Battery capacity gradually decreases over time, directly affecting EV driving range and performance.
-
-### Predictive Maintenance Opportunity
-
-Early identification of batteries with abnormal degradation patterns can reduce maintenance costs and improve fleet reliability.
-
----
-
-## 🌍 Real-World Applications
-
-This solution can be used by:
-
-* Electric Vehicle Manufacturers
-* EV Fleet Operators
-* Battery Management System (BMS) Teams
-* Automotive Analytics Departments
-* Energy Storage Companies
-
-Potential use cases:
-
-* Predictive Maintenance
+* Electric Vehicle (EV) Manufacturing
+* Battery Management Systems (BMS)
+* EV Fleet Management
+* Predictive Maintenance Programs
 * Battery Warranty Analysis
-* Fleet Health Monitoring
-* Performance Benchmarking
-* Risk Detection & Alerts
+* Energy Storage Systems
+* Automotive Analytics
+* Performance Monitoring and Reporting
 
----
+### Business Benefits
 
-## 📂 Repository Structure
+* Early detection of battery degradation
+* Improved battery lifespan management
+* Reduced maintenance costs
+* Better operational decision-making
+* Enhanced fleet reliability
+* Data-driven battery performance monitoring
 
-EV-Battery-Performance-Analytics/
+```
+```
 
-├── Dataset/
 
-├── SQL/
+## ✅ Conclusion
 
-├── Python/
+This project demonstrates how SQL, Python, and Power BI can be integrated to build a complete EV Battery Performance Analytics solution. By analyzing battery health, degradation patterns, and environmental impacts, the project provides actionable insights that support predictive maintenance, operational efficiency, and data-driven decision-making in the electric vehicle industry.
 
-├── PowerBI/
+```
+```
 
-├── Screenshots/
-
-└── README.md
-
----
-
-## 🏆 Project Outcome
-
-Successfully developed a complete analytics pipeline integrating SQL, Python, and Power BI to monitor EV battery health, analyze degradation patterns, and provide actionable insights through interactive dashboards.
-
----
 
 ## 👩‍💻 About Me
 
