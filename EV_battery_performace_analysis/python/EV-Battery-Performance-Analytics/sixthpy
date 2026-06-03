@@ -1,0 +1,10 @@
+import pandas as pd
+
+df = pd.read_csv("battery_dataset.csv")
+
+corr = df.corr(numeric_only=True)
+
+print(corr["SOH"].sort_values(ascending=False))
+# command for terminal
+# cd "C:\Users\dewan\python\EV-Battery-Performance-Analytics"
+#  python sixth.py
